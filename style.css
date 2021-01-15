@@ -1,0 +1,58 @@
+#tribute-info {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 100%;
+  }
+  
+  #title {
+      font-family: 'Courier New', Courier, monospace;
+  }
+  
+  h1 {
+      font-weight: bold;
+      font-size: 250%;
+      display: flex;
+      justify-content: center;
+  }
+
+  h5 {
+      font-size: 100%;
+      display: flex;
+      justify-content: center;
+  }
+
+  #image {
+      border: white hidden;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 75%;
+  }
+
+  #img-caption {
+      color: white;
+      font-style: italic;
+      text-align: center;
+      padding-bottom: 10px;
+      font-size: 0.75em auto;
+  }
+
+  #tribute-info {
+      text-align: justify;
+      font-family: 'Segoe UI' ,'Times New Roman', Times, serif;
+      padding: 15px 70px 35px 70px;
+      font-size: 120%;
+  }
+
+  p {
+      font-style: italic;
+      text-align: center;
+      padding-top: 2.5%;
+      font-size: 95%;
+  }
+
+  #tribute-link {
+      display: flex;
+      justify-content: center;
+      padding-top: 15px;
+      font-weight: bold;
+  }
